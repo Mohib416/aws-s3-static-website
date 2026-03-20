@@ -55,4 +55,4 @@ The website is successfully deployed and accessible globally through CloudFront 
 - Basic troubleshooting (AccessDenied error)
 
 ## 👨‍💻 Author
-Mohib
+Muhammad Mohib
