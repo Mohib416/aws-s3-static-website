@@ -45,6 +45,9 @@ d1trv4s165wmqx.cloudfront.net
 ### 7. Website via CloudFront
 ![Website CloudFront](screenshots/07-Website-cloudFront.png)
 
+## 🌐 Live Website
+👉 [View Live Website](http://d1trv4s165wmqx.cloudfront.net)
+
 ## 🌐 Result
 The website is successfully deployed and accessible globally through CloudFront with improved performance and low latency.
 
