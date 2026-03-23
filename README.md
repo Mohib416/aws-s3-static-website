@@ -40,7 +40,7 @@ In this project, I created and deployed a static website using Amazon S3 and dis
 
 ### 6. CloudFront Distribution
 ![CloudFront](screenshots/06-CloudFront.png)
-link: d1trv4s165wmqx.cloudfront.net
+d1trv4s165wmqx.cloudfront.net
 
 ### 7. Website via CloudFront
 ![Website CloudFront](screenshots/07-Website-cloudFront.png)
